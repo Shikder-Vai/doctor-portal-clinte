@@ -5,7 +5,7 @@ const ContactUs = () => {
   return (
     <div
       style={{ backgroundImage: `url(${bgImage})` }}
-      className="bg-no-repeat bg-cover bg-center my-5 p-3"
+      className="bg-no-repeat bg-cover bg-center mt-5 p-5"
     >
       <div className=" flex flex-col justify-center items-center my-5">
         <h3 className="text-primary font-bold">Contact Us</h3>
