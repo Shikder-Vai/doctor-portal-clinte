@@ -5,7 +5,7 @@ import PrimaryButton from "../Share/PrimaryButton";
 
 const MakeAppointment = () => {
   return (
-    <div class=" min-h-screen my-20 ">
+    <div class=" mt-40">
       <div
         class=" flex justify-center items-center bg-no-repeat w-full bg-bottom flex-col lg:flex-row space-x-10"
         style={{ backgroundImage: `url(${Background})` }}
