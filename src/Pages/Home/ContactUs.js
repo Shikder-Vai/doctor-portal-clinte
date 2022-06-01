@@ -27,9 +27,9 @@ const ContactUs = () => {
           name="massege"
           placeholder="Your message"
           id=""
-          cols="41"
+          cols="37"
           rows="5"
-          className="border-2 mt-3 rounded-lg border-solid border-accent"
+          className="border-2 mt-3 p-4 rounded-lg border-solid border-accent"
         ></textarea>
       </form>
     </div>
